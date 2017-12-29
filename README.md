@@ -22,4 +22,4 @@ Information collected by the Only Software Jobs bot system will be used only in 
 
 We may send you email notifications or bot notifications from time to time. You may opt out at any point from receiving these messages by clicking the unsubscribe link included in the email or message.
 
-If you have questions, please contact us.
+If you have questions, please [contact us](https://docs.google.com/forms/d/1Jbdjsf1JRS3ZmYQgOBjAqB_yktKSszSMhR1F2OBE28Y/).
