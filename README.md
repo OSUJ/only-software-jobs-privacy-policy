@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+We take your privacy and the security of your data very seriously. We implement a variety of security measures to maintain the safety of your personal information. Communication between Only Software Jobs bot and you is encrypted using SSL.
 
-You can use the [editor on GitHub](https://github.com/OSUJ/only-software-jobs-privacy-policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# What we collect
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Only Software Jobs bot only collects information that is sent directly to them, via direct message or when the bot is directly mentioned. To-do bot does not access past or archived messages.
 
-### Markdown
+Only Software Jobs bot collects basic user information necessary to communicate with users when the user interacts with the bot for the first time.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How we store your data
 
-```markdown
-Syntax highlighted code block
+Our databases, store basic user information which is least necessary to communicate with users.
 
-# Header 1
-## Header 2
-### Header 3
+Our application and database are hosted in secure VPS environment.
 
-- Bulleted
-- List
+Employees or contractors are not allowed to access production databases and production services.
 
-1. Numbered
-2. List
+# How we use your data
 
-**Bold** and _Italic_ and `Code` text
+We will not sell, trade, or otherwise transfer your information to outside parties without your explicit permission.
 
-[Link](url) and ![Image](src)
-```
+Information collected by the Only Software Jobs bot system will be used only in the creation of reports and responses to queries, and will not be made available to any party outside of the authorized team.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+We may send you email notifications or bot notifications from time to time. You may opt out at any point from receiving these messages by clicking the unsubscribe link included in the email or message.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OSUJ/only-software-jobs-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have questions, please contact us.
